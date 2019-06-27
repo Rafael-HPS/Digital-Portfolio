@@ -402,8 +402,8 @@ table td{
     }
     .CV {
         width: 90%;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-left: auto;
+        margin-right: auto;
     }
     .stairs {
         margin-left: 35px;
